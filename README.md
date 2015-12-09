@@ -40,3 +40,6 @@
 <br>
 <p><strong>IDE's Online</strong></p>
 <p>Cloud9,  Codenvy, PlayGraund TypeScript  e CodePen</p>
+<br><br>
+<h3>LINKS's DE REFERÊNCIA</h3>
+<a href="http://www.typescriptlang.org/">http://www.typescriptlang.org</a>
