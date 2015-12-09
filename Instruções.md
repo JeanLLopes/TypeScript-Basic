@@ -20,7 +20,7 @@
 <br><br>
 <h3>COMO PODEMOS USÁ-LO</h3>
 
-<p>COM A IDE VISUAL STUDIO</p>
+<p><strong>COM A IDE VISUAL STUDIO</strong></p>
 <p>NA IDE COM VERSÃO  2015  O TYPESCRIPT JÁ É NATIVO DA FERRAMENTA</p>
 <br>
 <p>PARA VISUAL STUDIO 2012</p>
@@ -28,15 +28,15 @@
 <br>
 <p>PARA VISUAL  STUDIO 2013 ESTA DISPONÍVEL A PARTIR DO UPDATE 2</p>
 <br>
-<p>NODE.JS<p>
+<p><strong>NODE.JS</strong><p>
 <p>Para instalar npm install -g typescript</p>
 <br>
 
-<p>Editores de Texto</p>
+<p><strong>Editores de Texto</strong></p>
 <p>Sublime, Emacs, Vim, Visual Studio Code, JetBrains e Atom</p>
 <br>
-<p>IDE's</p>
+<p><strong>IDE's</strong></p>
 <p>NetBeans, Eclipse​</p>
 <br>
-<p>IDE's Online</p>
+<p><strong>IDE's Online</strong></p>
 <p>Cloud9,  Codenvy, PlayGraund TypeScript  e CodePen</p>
